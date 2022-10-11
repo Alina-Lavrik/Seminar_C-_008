@@ -1,0 +1,15 @@
+C:\Програмирование\GeekBrains\Уроки C#\C#_Seminar_08_10102022\TASK_001_var_2\obj\Debug\net6.0\TASK_001_var_2.csproj.AssemblyReference.cache
+C:\Програмирование\GeekBrains\Уроки C#\C#_Seminar_08_10102022\TASK_001_var_2\obj\Debug\net6.0\TASK_001_var_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Програмирование\GeekBrains\Уроки C#\C#_Seminar_08_10102022\TASK_001_var_2\obj\Debug\net6.0\TASK_001_var_2.AssemblyInfoInputs.cache
+C:\Програмирование\GeekBrains\Уроки C#\C#_Seminar_08_10102022\TASK_001_var_2\obj\Debug\net6.0\TASK_001_var_2.AssemblyInfo.cs
+C:\Програмирование\GeekBrains\Уроки C#\C#_Seminar_08_10102022\TASK_001_var_2\obj\Debug\net6.0\TASK_001_var_2.csproj.CoreCompileInputs.cache
+C:\Програмирование\GeekBrains\Уроки C#\C#_Seminar_08_10102022\TASK_001_var_2\bin\Debug\net6.0\TASK_001_var_2.exe
+C:\Програмирование\GeekBrains\Уроки C#\C#_Seminar_08_10102022\TASK_001_var_2\bin\Debug\net6.0\TASK_001_var_2.deps.json
+C:\Програмирование\GeekBrains\Уроки C#\C#_Seminar_08_10102022\TASK_001_var_2\bin\Debug\net6.0\TASK_001_var_2.runtimeconfig.json
+C:\Програмирование\GeekBrains\Уроки C#\C#_Seminar_08_10102022\TASK_001_var_2\bin\Debug\net6.0\TASK_001_var_2.dll
+C:\Програмирование\GeekBrains\Уроки C#\C#_Seminar_08_10102022\TASK_001_var_2\bin\Debug\net6.0\TASK_001_var_2.pdb
+C:\Програмирование\GeekBrains\Уроки C#\C#_Seminar_08_10102022\TASK_001_var_2\obj\Debug\net6.0\TASK_001_var_2.dll
+C:\Програмирование\GeekBrains\Уроки C#\C#_Seminar_08_10102022\TASK_001_var_2\obj\Debug\net6.0\refint\TASK_001_var_2.dll
+C:\Програмирование\GeekBrains\Уроки C#\C#_Seminar_08_10102022\TASK_001_var_2\obj\Debug\net6.0\TASK_001_var_2.pdb
+C:\Програмирование\GeekBrains\Уроки C#\C#_Seminar_08_10102022\TASK_001_var_2\obj\Debug\net6.0\TASK_001_var_2.genruntimeconfig.cache
+C:\Програмирование\GeekBrains\Уроки C#\C#_Seminar_08_10102022\TASK_001_var_2\obj\Debug\net6.0\ref\TASK_001_var_2.dll
