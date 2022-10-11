@@ -27,7 +27,6 @@ for (int i = 0; i < columns; i++)
 Console.WriteLine();
 PrintArray(array);
 
-
 int[,] FillArray(int[,] array, int minValue, int maxValue)
 {
     for (int i = 0; i < array.GetLength(0); i++)
@@ -45,7 +44,6 @@ int[,] CreateArray(int rows, int columns)
     int[,] array = new int[rows , columns];
     return array;
 }
-
 
 void PrintArray(int[,] array)
 {
